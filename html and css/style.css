@@ -1,0 +1,41 @@
+
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(188deg, rgba(0,0,0,1) 0%, rgba(255,246,0,1) 33%, rgba(255,190,0,1) 100%);
+    
+    background-size: 100%;
+}
+header{
+    display: flex;
+    justify-content: start;
+    padding: 1%;
+    margin: 1%;
+}
+.link{ 
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    margin: 20px;
+}
+.glav-menu li{
+    display: inline-block;
+    font-family: Arial, Verdana, Helvetica;
+    font-weight: 700;
+    
+    color: rgb(255, 255, 255);
+    font-size: 160%;
+    padding: 15px;
+    margin-top: 50px;
+}
+.par{
+    
+    background-color: rgb(254, 195, 0);
+}
+.img-link{
+    height: 210px;
+}
+.kom{
+    height: 100%;
+    width: ;
+    background-color: aqua;
+}
